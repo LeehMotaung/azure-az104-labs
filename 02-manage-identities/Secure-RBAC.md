@@ -40,6 +40,11 @@
 
 <img width="1415" height="657" alt="image" src="https://github.com/user-attachments/assets/861c4bb6-c870-42ce-82e8-c0730de9a942" />
 
+### 12.Delete Role assigbment
+
+<img width="1391" height="666" alt="image" src="https://github.com/user-attachments/assets/8e0ea9d4-12b7-4b4c-9996-23578402c932" />
+
+
 
 
 
