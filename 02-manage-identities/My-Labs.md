@@ -57,7 +57,7 @@ The user account was successfully created in Microsoft Entra ID and is now avail
 
 <img width="1393" height="659" alt="image" src="https://github.com/user-attachments/assets/7ca2155c-6b52-4444-8696-5134c8b4eb75" />
 
-### 12.Buld Delete
+### 12.Bulk Delete
 
 <img width="1401" height="664" alt="image" src="https://github.com/user-attachments/assets/713951f0-74f7-4e42-a9b9-4ccbc70979dd" />
 
