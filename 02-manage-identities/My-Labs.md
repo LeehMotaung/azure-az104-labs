@@ -32,7 +32,7 @@ The user configuration was reviewed before final creation. This step ensures tha
 
 The user account was successfully created in Microsoft Entra ID and is now available for authentication, group assignment, and licensing.
 
-<img width="1403" height="668" alt="User Successfully Created" src="https://github.com/user-attachments/assets/75235fe2-6e2e-4424-9822-ad78e224da4b" />
+<img width="1403" height="668" alt="Screenshot 2026-06-01 090828" src="https://github.com/user-attachments/assets/07fba45e-7d6c-4764-989b-299abe808592" />
 
 ---
 
