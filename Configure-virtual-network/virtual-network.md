@@ -49,6 +49,16 @@
 
 <img width="1402" height="599" alt="image" src="https://github.com/user-attachments/assets/37610234-9207-4bc3-9608-f004b7e31511" />
 
+### 11.Type msinfo 32 to open Server Manager
+
+<img width="1391" height="636" alt="image" src="https://github.com/user-attachments/assets/fdd02aa9-9f65-49d7-88a3-bcde877720a9" />
+
+### 12.See your configuration done when creating a VM
+
+<img width="1340" height="658" alt="image" src="https://github.com/user-attachments/assets/150bc2d8-7f91-49fb-8ab9-987ec665a171" />
+
+
+
 
 
 
