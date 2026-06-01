@@ -36,6 +36,11 @@
 
 <img width="1409" height="664" alt="image" src="https://github.com/user-attachments/assets/827db7b3-f5e3-4411-b42f-3c46f20749c3" />
 
+### 11.User 1 can now see the resource group due to RBAC
+
+<img width="1415" height="657" alt="image" src="https://github.com/user-attachments/assets/861c4bb6-c870-42ce-82e8-c0730de9a942" />
+
+
 
 
 
