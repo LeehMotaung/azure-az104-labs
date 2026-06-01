@@ -8,7 +8,8 @@ This exercise demonstrates how to create a new user account in Microsoft Entra I
 
 In this step, the basic identity information for the user was configured, including display name and user principal name (UPN).
 
-<img width="1406" height="686" alt="User Basics Configuration" src="https://github.com/user-attachments/assets/f4a5075b-80fe-4e78-b1c7-4ddbc36da9b1" />
+<img width="1397" height="675" alt="image" src="https://github.com/user-attachments/assets/ad82152c-5eac-4364-a634-7cf8580af9b4" />
+
 
 ---
 
@@ -32,7 +33,7 @@ The user configuration was reviewed before final creation. This step ensures tha
 
 The user account was successfully created in Microsoft Entra ID and is now available for authentication, group assignment, and licensing.
 
-<img width="1403" height="668" alt="Screenshot 2026-06-01 090828" src="https://github.com/user-attachments/assets/07fba45e-7d6c-4764-989b-299abe808592" />
+<img width="1391" height="659" alt="image" src="https://github.com/user-attachments/assets/1cc3b60c-01f9-4a04-b666-cfd75b27e1fb" />
 
 ### 5.Bulk Operations
 <img width="1399" height="660" alt="image" src="https://github.com/user-attachments/assets/50f87649-c931-4b04-9227-d78a56d3fba4" />
