@@ -7,6 +7,14 @@
 ### 3.Active Users-As you can see user Ramesh P(Unlicensed)
 <img width="1394" height="658" alt="image" src="https://github.com/user-attachments/assets/63e2fed4-0853-4d3d-815b-5cc0ebf08769" />
 
+### 4.Assign license Microsoft Entra ID P2 to Ramesh P
+<img width="1399" height="679" alt="image" src="https://github.com/user-attachments/assets/3ed9a025-fbd3-4ae3-ac49-fb6311f86db1" />
+
+### 5.Confirm that user Ramesh P has license assigned
+<img width="1397" height="640" alt="image" src="https://github.com/user-attachments/assets/f140f816-0f18-4824-80eb-3e1bc767a473" />
+
+
+
 
 
 
