@@ -28,6 +28,33 @@
 
 <img width="1414" height="633" alt="image" src="https://github.com/user-attachments/assets/7f5e2df5-d120-42a4-a077-a1d28f856d85" />
 
+### 6.Connect to my virtual machine-Use Connect
+<img width="1411" height="638" alt="image" src="https://github.com/user-attachments/assets/d85e8581-ecbb-471e-9a91-a454fa3c0762" />
+
+### 7.Download RDP file
+
+<img width="1416" height="631" alt="image" src="https://github.com/user-attachments/assets/1f70eaf6-2360-485c-a73b-abcf6891dc85" />
+
+### 8.Open the file
+
+<img width="1406" height="596" alt="image" src="https://github.com/user-attachments/assets/fa9b9a61-7639-4861-b73e-1cacde8f1780" />
+
+### 9.Click connect the enter the created password
+
+<img width="1394" height="598" alt="image" src="https://github.com/user-attachments/assets/9b9cbdb0-0c6b-4716-b3a3-250dbafdf462" />
+
+### 10.Click Yes
+
+<img width="1406" height="598" alt="image" src="https://github.com/user-attachments/assets/18de64cf-248c-444e-a571-50b600a3473b" />
+
+<img width="1402" height="599" alt="image" src="https://github.com/user-attachments/assets/37610234-9207-4bc3-9608-f004b7e31511" />
+
+
+
+
+
+
+
 
 
 
