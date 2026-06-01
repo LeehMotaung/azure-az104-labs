@@ -24,6 +24,11 @@
 
 <img width="1413" height="630" alt="image" src="https://github.com/user-attachments/assets/1f6d6ef8-c09b-42c2-baf3-fd74a18f86bf" />
 
+### 5.Click inside the virtual machine to confirm everything
+
+<img width="1414" height="633" alt="image" src="https://github.com/user-attachments/assets/7f5e2df5-d120-42a4-a077-a1d28f856d85" />
+
+
 
 
 
