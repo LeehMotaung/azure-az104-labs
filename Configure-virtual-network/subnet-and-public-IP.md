@@ -65,6 +65,14 @@
 
 <img width="1415" height="633" alt="image" src="https://github.com/user-attachments/assets/293fb6d7-783b-43c9-92ab-4f407f02de80" />
 
+### 15. Connect using Putty-Search Putty-Login -password
+
+<img width="1361" height="565" alt="image" src="https://github.com/user-attachments/assets/8f62e7e3-1850-4523-a8d1-1772411a1a8d" />
+
+
+
+
+
 
 
 
