@@ -33,9 +33,18 @@
 
 <img width="1402" height="626" alt="image" src="https://github.com/user-attachments/assets/860d19f9-c05d-4ace-afdc-b3ee63f34090" />
 
-### 9.Confirm if the VM is created
+### 9.Confirm if the VM is created-No public IP
+### 9.1 Linux-Ubantu-use Putty
+### 9.2 Windows-use-RDP
 
-<img width="1402" height="626" alt="image" src="https://github.com/user-attachments/assets/644814cd-0763-402c-84c8-ec1f97bcc2f9" />
+<img width="1406" height="603" alt="image" src="https://github.com/user-attachments/assets/1bef127c-dbc7-43e8-9884-abd51dea52f1" />
+
+### 10.Public IP address
+
+<img width="1408" height="627" alt="image" src="https://github.com/user-attachments/assets/6209342a-977d-42f6-b569-fdd9dee5dc69" />
+
+### 11.
+
 
 
 
