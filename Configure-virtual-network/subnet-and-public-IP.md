@@ -33,6 +33,11 @@
 
 <img width="1402" height="626" alt="image" src="https://github.com/user-attachments/assets/860d19f9-c05d-4ace-afdc-b3ee63f34090" />
 
+### 9.Confirm if the VM is created
+
+<img width="1402" height="626" alt="image" src="https://github.com/user-attachments/assets/644814cd-0763-402c-84c8-ec1f97bcc2f9" />
+
+
 
 
 
