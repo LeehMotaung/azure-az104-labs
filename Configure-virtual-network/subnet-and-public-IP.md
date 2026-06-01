@@ -43,7 +43,32 @@
 
 <img width="1408" height="627" alt="image" src="https://github.com/user-attachments/assets/6209342a-977d-42f6-b569-fdd9dee5dc69" />
 
-### 11.
+<img width="1420" height="588" alt="image" src="https://github.com/user-attachments/assets/fee2d922-ae28-4f7e-a7c1-5f5cc7b4377a" />
+
+<img width="1421" height="596" alt="image" src="https://github.com/user-attachments/assets/ed20d74e-8d7a-490b-9296-c91c0ca0d0c9" />
+
+
+
+### 11.Deployment is complete
+
+<img width="1393" height="599" alt="image" src="https://github.com/user-attachments/assets/c669f738-7fa4-46c5-b5e7-1b990ea3935e" />
+
+### 12.Go back to the Public IP
+
+<img width="1405" height="637" alt="image" src="https://github.com/user-attachments/assets/cda42ee1-bf12-4e9a-a7ce-ea7cec90f524" />
+
+### 13.Click Associate-NIC level
+
+<img width="1399" height="629" alt="image" src="https://github.com/user-attachments/assets/052c1ea3-f756-4cfd-a398-d304b93fba2b" />
+
+### 14.See if the Public IP address appears
+
+<img width="1415" height="633" alt="image" src="https://github.com/user-attachments/assets/293fb6d7-783b-43c9-92ab-4f407f02de80" />
+
+
+
+
+
 
 
 
